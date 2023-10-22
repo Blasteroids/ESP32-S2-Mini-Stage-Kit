@@ -88,3 +88,5 @@ Remember to click SAVE to save your settings!
 RB Enhanced team for pushing out the data over udp.
 
 AchillesPDX for trying to nail the strobe timings.
+
+Sea Dog Andy for the html help, especially the circles :D
