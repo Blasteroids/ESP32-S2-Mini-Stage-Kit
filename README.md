@@ -2,7 +2,7 @@
 # ESP32-S2 Mini StageKit for RockBand 3 Enhanced
 The ESP32-S2 Mini StageKit is a device that shows the custom light shows programmed into Rock Band 3 when using Rock Band 3 Enhanced.
 
-## Examples of it in action
+## Example of it in action (Click for YouTube video)
 [![Example](https://img.youtube.com/vi/3aIkCyb1rkU/0.jpg)](https://www.youtube.com/watch?v=3aIkCyb1rkU)
 
 
@@ -84,5 +84,7 @@ There are 4 options for speed : Slow, Medium, Fast, Faster.  These are time in m
 Remember to click SAVE to save your settings!
 
 ###### Shoutouts
+
 RB Enhanced team for pushing out the data over udp.
+
 AchillesPDX for trying to nail the strobe timings.
