@@ -87,10 +87,10 @@ void ConfigServer::ResetConfigToDefault() {
   
   m_strobe_enabled      = true;
   m_strobe_leds_all     = true;
-  m_strobe_rate_ms[ 0 ] = 160;
-  m_strobe_rate_ms[ 1 ] = 120;
-  m_strobe_rate_ms[ 2 ] = 100;
-  m_strobe_rate_ms[ 3 ] =  80;
+  m_strobe_rate_ms[ 0 ] = 167; // Roughly  6 Hz
+  m_strobe_rate_ms[ 1 ] = 125; // Roughly  8 Hz
+  m_strobe_rate_ms[ 2 ] = 100; // Roughly 10 Hz
+  m_strobe_rate_ms[ 3 ] =  83; // Roughly 12 Hz
 
 }
 
